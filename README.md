@@ -1,6 +1,6 @@
 <section align="center">
     <h1>👨‍💻Henrique Verissimo</h1>
-    <img width="250" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif" >     
+    <img width="200" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif" >     
 </section>
 <section align="center">
     <h3>Desenvolvedor Junior</h3>
@@ -16,7 +16,7 @@ Olá! Me chamo Henrique da Silva Verissimo, tenho 22 anos e sou apaixonado por t
 
 ---
 
-### **Minha stack:**
+### Minha Stack:
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -24,7 +24,7 @@ Olá! Me chamo Henrique da Silva Verissimo, tenho 22 anos e sou apaixonado por t
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -43,5 +43,6 @@ Olá! Me chamo Henrique da Silva Verissimo, tenho 22 anos e sou apaixonado por t
 
 <br>
 
+![HenryVerissimo's Stats](https://github-readme-stats.vercel.app/api?username=HenryVerissimo&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![HenryVerissimo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryVerissimo&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![HenryVerissimo's Stats](https://github-readme-stats.vercel.app/api?username=HenryVerissimo&theme=dark&show_icons=true&hide_border=true&count_private=true)  
+  
