@@ -1,9 +1,9 @@
 <section align="center">
-    <h1>👨‍💻Henrique Verissimo</h1>
+    <h1>👨‍💻Henrique da Silva Verissimo</h1>
     <img width="200" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif" >     
 </section>
 <section align="center">
-    <h3>Desenvolvedor Junior</h3>
+    <h3>Programador Backend</h3>
     <img width="70" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg">
     <img width="60" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg">
     <img width="60" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg">
@@ -12,7 +12,7 @@
 ---
 
 ### Sobre:
-Olá! Me chamo Henrique da Silva Verissimo, tenho 22 anos e sou apaixonado por tecnologia. Atualmente estou estagiando como suporte técnico na empresa F5software, cursando técnico em informática na instituição SENAC e estudando programação no meu tempo livre.
+Opa, tudo bem? Me chamo Henrique da Silva Verissimo, tenho 22 anos e sou apaixonado por tecnologia. Atualmente estou estagiando como suporte técnico na empresa F5software, cursando técnico em informática na instituição SENAC e estudando programação no meu tempo livre. Pretendo fazer faculdade ano que vem e migrar para área de programação back-end.
 
 ---
 
